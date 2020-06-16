@@ -1,0 +1,19 @@
+{
+  "name": "glosario",
+  "version": "1.0.0",
+  "description": "Package to define technical terms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ian-flores/glosario-js.git"
+  },
+  "author": "Ian Flores Siaca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ian-flores/glosario-js/issues"
+  },
+  "homepage": "https://github.com/ian-flores/glosario-js#readme"
+}
